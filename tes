@@ -8,10 +8,10 @@
       "admob_banner":"ca-app-pub-3940256099942544/6300978111",
       "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
       "select_ads":"UNITY",
-      "interval":"",
+      "interval":"5",
       "unityID":"3896203",
-      "unity_banner":"",
-      "unity_inter":"",
+      "unity_banner":"bannerid",
+      "unity_inter":"video",
       "startappid":"1234567890"   ,
       "kidoz_pub_id":"14481",
       "kidoz_token":"bfWpFB4N7oPTlys96ZNnXOd2rG6Aooub"
