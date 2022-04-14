@@ -4,17 +4,17 @@
     {
       "status_redirect":"",
       "link_redirect":"",
-      "admob_inter":"",
-      "admob_banner":"",
-      "admob_open_ads":"",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
       "select_ads":"",
       "interval":"",
-      "unityID":"",
+      "unityID":"3896203",
       "unity_banner":"",
       "unity_inter":"",
-      "startappid":""   ,
-      "kidoz_pub_id":"",
-      "kidoz_token":""
+      "startappid":"1234567890"   ,
+      "kidoz_pub_id":"14481",
+      "kidoz_token":"bfWpFB4N7oPTlys96ZNnXOd2rG6Aooub"
     }
   ],
  
